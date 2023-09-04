@@ -1,17 +1,18 @@
 import run from '../index.js';
-
-import showRandomNumber from '../math.js';
+import getRandomNumber from '../math.js';
 
 const gameRule = 'Answer "yes" if the number is even, otherwise answer "no".';
 
-const getQuestionValue = () => {
-  const randomNumber = showRandomNumber();
-  const correctAnswer = randomNumber % 2 === 0 ? 'yes' : 'no';
-  return [randomNumber, correctAnswer];
+const isEven = (num) => num % 2 === 0;
+
+const getRound = () => {
+  const number = getRandomNumber(0, 100);
+  const question = String(number);
+  const correctAnswer = isEven(number) ? 'yes' : 'no';
+  return [question, correctAnswer];
 };
 
 const runEven = () => {
-  run(gameRule, getQuestionValue);
+  run(gameRule, getRound);
 };
-
 export default runEven;
