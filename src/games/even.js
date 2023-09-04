@@ -1,4 +1,4 @@
-import run from '../run.js';
+import run from '../index.js';
 
 import showRandomNumber from '../math.js';
 
