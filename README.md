@@ -6,6 +6,9 @@
 
 <a href="https://asciinema.org/a/YQAtIrigynT3LvEmpAFIGxPUt" target="_blank"><img src="https://asciinema.org/a/YQAtIrigynT3LvEmpAFIGxPUt.svg"/></a>
 
-## BRAIN_CALC game
+## BRAIN-CALC game
 
 <a href="https://asciinema.org/a/dNrC2ISvsaZ1d7WSBv4KjZBAb" target="_blank" img src="https://asciinema.org/a/dNrC2ISvsaZ1d7WSBv4KjZBAb.svg"></a>
+
+## BRAIN-GCD
+[![asciicast](https://asciinema.org/a/MNOIkXDNQXOwejDB62RIStTu6.svg)](https://asciinema.org/a/MNOIkXDNQXOwejDB62RIStTu6)
