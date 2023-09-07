@@ -10,3 +10,6 @@
 
 ## BRAIN-GCD
 [![asciicast](https://asciinema.org/a/MNOIkXDNQXOwejDB62RIStTu6.svg)](https://asciinema.org/a/MNOIkXDNQXOwejDB62RIStTu6)
+
+## BRAIN-PROGRESSION
+[![asciicast](https://asciinema.org/a/ZxDtE3g1Ne5LjPHkZ2uYG9MQz.svg)](https://asciinema.org/a/ZxDtE3g1Ne5LjPHkZ2uYG9MQz)
