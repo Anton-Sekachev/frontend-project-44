@@ -8,8 +8,11 @@
 ### Brain-calc
 [![asciicast](https://asciinema.org/a/dNrC2ISvsaZ1d7WSBv4KjZBAb.svg)](https://asciinema.org/a/dNrC2ISvsaZ1d7WSBv4KjZBAb)
 
-### Brain-GCD
+### Brain-gcd
 [![asciicast](https://asciinema.org/a/MNOIkXDNQXOwejDB62RIStTu6.svg)](https://asciinema.org/a/MNOIkXDNQXOwejDB62RIStTu6)
 
-### Brain-PROGRESSION
+### Brain-progression
 [![asciicast](https://asciinema.org/a/ZxDtE3g1Ne5LjPHkZ2uYG9MQz.svg)](https://asciinema.org/a/ZxDtE3g1Ne5LjPHkZ2uYG9MQz)
+
+### Brain-prime
+[![asciicast](https://asciinema.org/a/x47DhE9GCmew1htMN474tmjqg.svg)](https://asciinema.org/a/x47DhE9GCmew1htMN474tmjqg)
