@@ -5,8 +5,10 @@
 ### "Brain games" is a set of 5 mini math games. Each game consists of 3 rounds.
 
 ### Requirements:
-https://img.shields.io/badge/node->=_20.5.0-green
-![Static Badge](https://img.shields.io/badge/node->=_20.5.0-green)
+![Static Badge](https://img.shields.io/badge/node->=_20.5.0-brightgreen)
+![Static Badge](https://img.shields.io/badge/npm->=_9.8.0-brightgreen)
+<img src="https://img.shields.io/badge/Unix-like%20system-00ff00"/>
+
 
 
 
