@@ -1,5 +1,5 @@
 import run from '../index.js';
-import getRandomNumber from '../math.js';
+import getRandomNumber from '../utils.js';
 
 const gameRule = 'Answer "yes" if given number is prime. Otherwise answer "no".';
 

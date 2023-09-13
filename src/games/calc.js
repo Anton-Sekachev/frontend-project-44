@@ -36,7 +36,7 @@
 // export default runCalc;
 
 import run from '../index.js';
-import getRandomNumber from '../math.js';
+import getRandomNumber from '../utils.js';
 
 const gameRule = 'What is the result of the expression?';
 const operators = ['+', '-', '*'];
