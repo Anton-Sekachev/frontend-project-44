@@ -8,6 +8,7 @@
 <h3 align="center">"Brain games" is a set of 5 mini math games. Each game consists of 3 rounds.</h3>
 
 <h3>Brain games includes:</h3>
+
 * brain-even
 * brain-calc
 * brain-gcd
