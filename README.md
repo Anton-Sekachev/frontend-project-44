@@ -2,6 +2,14 @@
 [![Actions Status](https://github.com/Anton-Sekachev/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/Anton-Sekachev/frontend-project-44/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/0b51ba71de1b4b4d7418/maintainability)](https://codeclimate.com/github/Anton-Sekachev/frontend-project-44/maintainability)
 
+### "Brain games" is a set of 5 mini math games. Each game consists of 3 rounds.
+
+### Requirements:
+https://img.shields.io/badge/node->=_20.5.0-green
+![Static Badge](https://img.shields.io/badge/node->=_20.5.0-green)
+
+
+
 ### Brain-even
 [![asciicast](https://asciinema.org/a/YQAtIrigynT3LvEmpAFIGxPUt.svg)](https://asciinema.org/a/YQAtIrigynT3LvEmpAFIGxPUt)
 
